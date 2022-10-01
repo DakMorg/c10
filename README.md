@@ -31,6 +31,7 @@ This app is used to streamline the process of generating a meet the team page
 ## Snips
 
 Video: 
+[c10shortvid.webm](https://user-images.githubusercontent.com/108765820/193431311-c6c5a765-787d-40bc-9c5c-3f86f61342d1.webm)
 
 
 ## Links
